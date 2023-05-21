@@ -23,6 +23,8 @@ I also develop small freelance projects. Will be glad to cooperate. ✍🏻
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IMPOSTOR15&theme=dark&background=22272e)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMPOSTOR15&layout=compact&theme=dark&bg_color=22272e)](https://github.com/anuraghazra/github-readme-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dandr212&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 ## Contact Me 📲
 [![telegram](https://img.shields.io/badge/telegram-22272e?style=for-the-badge&logo=telegram)](https://t.me/impostor15)
 [![ВКОНТАКТЕ](https://img.shields.io/badge/ВКОНТАКТЕ-22272e?style=for-the-badge&logo=VK)](https://vk.com/ky4a_ha1i4ku)
