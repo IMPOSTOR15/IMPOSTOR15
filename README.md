@@ -1,10 +1,5 @@
 ![HEADER](https://github.com/IMPOSTOR15/IMPOSTOR15/blob/main/assests/header_logo.png?raw=true)
-## I'm beginner front-end developer 👨‍💻
-I am a 4th year undergraduate student of MTUCI from Moscow. 🎓
-
-Now I am actively studying REACT.js ⚛
-
-I also develop small freelance projects. Will be glad to cooperate. ✍🏻
+## I'm front-end developer 👨‍💻 Will be glad to cooperate. ✍🏻
 ## Languages and tools ⚙️
 ![JavaScript](https://img.shields.io/badge/JavaScript-22272e?style=for-the-badge&logo=JavaScript)
 ![HTML5](https://img.shields.io/badge/HTML5-22272e?style=for-the-badge&logo=HTML5)
